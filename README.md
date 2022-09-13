@@ -7,6 +7,7 @@
 
 ## Progress
 - [✔️] Day 1 > [Introduction](Days/day01.md)
+- [✔️] Day 2 > [Transmission Modes](Days/day02.md)
 
 ## Resouces 
 - YouTube ==> [Technical Guftgu (Hindi)](https://www.youtube.com/playlist?list=PLBGx66SQNZ8ZvdIoctCTWB3ApXQpQGEin)
