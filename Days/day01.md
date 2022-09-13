@@ -8,8 +8,9 @@
 - The IEEE 802 LAN is popularly used shared medium peer-to-peer communication network that broadcast information for all stations to receive.
 
 - LAN is most from privatly used network
-- Example: 
-         1) Network in Home  2) Network in SChool
+- Example 
+1) Network in Home  
+2) Network in SChool
 
 ### Metropoliton Area Network (MAN)
 - MAN is large than LAN but smaller than WAN.
