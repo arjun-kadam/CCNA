@@ -24,4 +24,4 @@
 - Ex: Whole Internet is WAN.
 
 This is for today. Hope you understand the basics of `Computer Networks`
-Let's Meet on  [Day 2](Days/day02.md)
+Let's Meet on  [Day 2](day02.md)
