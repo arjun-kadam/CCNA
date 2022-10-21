@@ -26,4 +26,4 @@
 <img src="Images/FullDuplex.png?raw=true" alt="Half Duplex Mode">
 
 I Hope You Understand The Concept of Transmission Modes.
-Let's Meet On [Day3](Days/day03.md)
+Let's Meet On [Day3](day03.md)
