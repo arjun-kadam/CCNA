@@ -10,6 +10,7 @@
 - [✔️] Day 2 > [Transmission Modes](Days/day02.md)
 - [✔️] Day 3 > [OSI Model](Days/day03.md)
 - [✔️] Day 4 > [TCP/IP Model](Days/day04.md)
+- [✔️] Day 5 > [Networking Devices](Days/day05.md)
 
 ## Resouces 
 - YouTube ==> [Technical Guftgu (Hindi)](https://www.youtube.com/playlist?list=PLBGx66SQNZ8ZvdIoctCTWB3ApXQpQGEin)
