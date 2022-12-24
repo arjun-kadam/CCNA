@@ -13,7 +13,7 @@
 - Single Collision Domain.
 - LAN Device 
 - It is not Intelligent Device.
-<img src="Images/Hub.jpg?raw=true" alt="Hub Diagram">
+<img src="Images/hub.jpg?raw=true" alt="Hub Diagram">
 
 # Repeater 
 - It regenerate your signal.
