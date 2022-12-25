@@ -43,6 +43,6 @@ Cable failure affects only single user.
 - Combination of star & bus topologies.
 - This topology is an extension of the bus & star topologies.
 new nodes can be easily added.
-<img src="Images/tree.png?raw=true" alt="Tree Toplology Diagram">
+<img src="Images/Tree.png?raw=true" alt="Tree Toplology Diagram">
 
 Hope You Undersatnd the concept of Network Topology. If you want to improve this guide then contribute. Let's Meet on next Day with Addressing [Day 7](day07.md)
