@@ -14,6 +14,7 @@
 - [✔️] Day 6 > [Network Topologies](Days/day06.md)
 - [✔️] Day 7 > [Network Types](Days/day07.md)
 - [✔️] Day 8 > [Addressing](Days/day08.md)
+- [✔️] Day 9 > [IP Addressing](Days/day09.md)
 
 ## Resouces 
 - YouTube ==> [Technical Guftgu (Hindi)](https://www.youtube.com/playlist?list=PLBGx66SQNZ8ZvdIoctCTWB3ApXQpQGEin)
