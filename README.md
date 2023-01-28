@@ -15,7 +15,8 @@
 - [✔️] Day 7 > [Network Types](Days/day07.md)
 - [✔️] Day 8 > [Addressing](Days/day08.md)
 - [✔️] Day 9 > [IP Addressing](Days/day09.md)
-
+- [✔️] Day 10 > [Subnetting & Supernetting](Days/day10.md)
+- [✔️] Day 11 > [DNS Protocol](Days/day11.md)
 ## Resouces 
 - YouTube ==> [Technical Guftgu (Hindi)](https://www.youtube.com/playlist?list=PLBGx66SQNZ8ZvdIoctCTWB3ApXQpQGEin)
 - 3rd Year Computer Engineering Sem V "Computer Network" Subject
