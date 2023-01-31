@@ -17,6 +17,10 @@
 - [✔️] Day 9 > [IP Addressing](Days/day09.md)
 - [✔️] Day 10 > [Subnetting & Supernetting](Days/day10.md)
 - [✔️] Day 11 > [DNS Protocol](Days/day11.md)
+- [✔️] Day 12 > [DHCP](Days/day12.md)
+- [✔️] Day 13 > [ARP Protocol](Days/day13.md)
+- [✔️] Day 14 > [SMTP](Days/day14.md)
+- [✔️] Day 15 > [POP3 & IMAP](Days/day15.md)
 ## Resouces 
 - YouTube ==> [Technical Guftgu (Hindi)](https://www.youtube.com/playlist?list=PLBGx66SQNZ8ZvdIoctCTWB3ApXQpQGEin)
 - 3rd Year Computer Engineering Sem V "Computer Network" Subject

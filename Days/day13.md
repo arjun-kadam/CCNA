@@ -13,5 +13,26 @@ Types Of ARP:
 4. Gratitous Proxy
 
 ## Header Format Of ARP
+```
++-+-+-+-+-+-+-+-+-+-+-+
+|Hardware Type |Protocol Type  |
++-+-+-+-+-+-+-+-+-+-+-+
+|Hardware Size |Protocol Size  |
++-+-+-+-+-+-+-+-+-+-+-+
+| Operation    |
++-+-+-+-+-+-+-+-+-+-+-+
+| Sender Hardware Address |
+| (Variable length)       |
++-+-+-+-+-+-+-+-+-+-+-+
+| Sender Protocol Address |
+| (Variable length)       |
++-+-+-+-+-+-+-+-+-+-+-+
+| Target Hardware Address |
+| (Variable length)       |
++-+-+-+-+-+-+-+-+-+-+-+
+| Target Protocol Address |
+| (Variable length)       |
++-+-+-+-+-+-+-+-+-+-+-+
+```
 
 This is begginers guide to ARP if you willing to learn more you can checkout more on YouTube. On [Day 14](day14.md) We will see about SMTP.

@@ -24,7 +24,9 @@ DHCP server can provide :
 
 3. **DHCP Request** ***(Port 68):*** Client again broadcast to server after knowing the IP of DHCP server. DHCP request message asking for the offered IP addrerss and other information.
 
-4. **DHCP Acknowledgement** ***(Port 67):*** Server to client with Configuration Parameter including commited network settings,
+4. **DHCP Acknowledgement** ***(Port 67):*** Server to client with Configuration Parameter including commited network settings.
+
+<img src="Images/DHCP.png?raw=true" alt="DHCP">
 
 
 This is basic information about DHCP. We will see about ARP protocol on [Day 13](day13.md).
