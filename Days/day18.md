@@ -5,7 +5,7 @@
 <img src="Images/SSL-Arch.png?raw=true" alt="SSL Header">
 
 ## SSL Handshake Protocol
- <img src="Images/SSLhandshake.png?raw=true" alt="SSL Handshake Protocol">
+ <img src="Images/SSLHandshake.png?raw=true" alt="SSL Handshake Protocol">
 
  Let's Meet On [Day 19](day19.md) with SSH
  
