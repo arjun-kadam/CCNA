@@ -18,3 +18,5 @@
 - The user can organize the email directly on the mail server.
 - The user can create, delete or rename email on mail server.
 - User can search the content of mail for specific string before downloading.
+
+This is Very basic and important lesson on POP3 & IMAP. On [Day 16](day16.md)  We will learn about FTP.

@@ -21,6 +21,12 @@
 - [✔️] Day 13 > [ARP Protocol](Days/day13.md)
 - [✔️] Day 14 > [SMTP](Days/day14.md)
 - [✔️] Day 15 > [POP3 & IMAP](Days/day15.md)
+- [✔️] Day 16 > [FTP](Days/day16.md)
+- [✔️] Day 17 > [HTTP/S](Days/day17.md)
+- [✔️] Day 18 > [SSL](Days/day18.md)
+- [✔️] Day 19 > [SSH](Days/day19.md)
+- [✔️] Day 20 > [Forward and Reverse Proxy](Days/day20.md)
+
 ## Resouces 
 - YouTube ==> [Technical Guftgu (Hindi)](https://www.youtube.com/playlist?list=PLBGx66SQNZ8ZvdIoctCTWB3ApXQpQGEin)
 - 3rd Year Computer Engineering Sem V "Computer Network" Subject

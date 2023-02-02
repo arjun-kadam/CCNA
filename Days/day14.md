@@ -25,6 +25,9 @@
 
 ## Working Of SMTP
 
+<img src="Images/SMTP1.png?raw=true" alt="SMTP">
+
+
 **MTA (Message Transfer Protocol):** Responsible for transfering and routing an email message from the sender's computer to the recieptant computer.
 
 ## SMTP Codes and their Meaning
@@ -46,8 +49,5 @@
 `500` - Syntax Error
 
 `554` - Transaction Failed
-
-## Transition Diagram Of SMTP
-
 
 This Explainative guide about SMTP. On [Day 15](day15.md) we will se about POP3 and IMAP.
